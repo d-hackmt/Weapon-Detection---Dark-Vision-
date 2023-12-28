@@ -7,10 +7,6 @@ Currently, weapon detection through video surveillance has been extensively stud
 
 
 
-Here is the doi to access the paper: https://doi.org/10.1016/j.dsp.2023.104342 
-
-
-The codes have undergone verification through Code Ocean and are accessible at: https://doi.org/10.24433/CO.2176072.v1
 
 ![](https://github.com/PavinderYadav0/DarkVision/blob/main/figures/In_a_disturbing_trend,_V2.mp4)
 
